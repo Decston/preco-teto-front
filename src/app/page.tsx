@@ -29,7 +29,7 @@ const Home = () => {
         </CardContent>
         <Separator />
         <CardFooter>
-          <p>AP Investimentos</p>
+          <p>AP Tecnologia & Investimentos</p>
         </CardFooter>
       </Card>
     </div>
